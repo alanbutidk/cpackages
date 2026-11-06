@@ -1,0 +1,13 @@
+# System-specific path-cutter files
+ppm.bat
+
+# Normal .venv directories
+.venv
+
+# Path to .venv/scripts/executables or .venv/bin/executables
+.ppm_paths
+
+# Testing cpkg-registry
+cpkg-registry
+
+
